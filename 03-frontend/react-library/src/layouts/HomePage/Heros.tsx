@@ -28,7 +28,7 @@ export const Heros = () => {
                                 Try to check our collection is always changing!
                                 We work nonstop to provide the most accurate book selection for
                                 our Luv 2 Read students! We are diligent about our book selection
-                                and our book selection and our books are always to be our top
+                                and our books are always to be our top
                                 priority.
                             </p>
                         </div>
@@ -51,6 +51,19 @@ export const Heros = () => {
                                     we will be able to provide the top content for you!
                                 </p>
                                 <a className="btn main-color btn-lg text-white" href="#">Sign Up</a>
+                            </div>
+                        </div>
+                        <div className="m-2">
+                            <div className="col-image-right"></div>
+                            <div className="mt-2">
+                                <h1>Our collection is always changing</h1>
+                                <p className="lead">
+                                    Try to check our collection is always changing!
+                                    We work nonstop to provide the most accurate book selection for
+                                    our Luv 2 Read students! We are diligent about our book selection
+                                    and our books are always to be our top
+                                    priority.
+                                </p>
                             </div>
                         </div>
                     </div>
